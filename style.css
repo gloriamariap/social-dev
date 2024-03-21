@@ -1,6 +1,5 @@
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 25%, rgba(70,70,215,1) 57%, rgba(7,62,222,1) 83%);
+    background-color: arialblue;
 }
 h1{
     padding-bottom: 50px;
