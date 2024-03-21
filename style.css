@@ -2,7 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
-table{
+th {
+    background-color: rgb(40, 140, 255); 
+}
+td {
     background-color: rgb(40, 140, 255);
 }
 h1{
