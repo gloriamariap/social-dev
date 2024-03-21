@@ -1,0 +1,40 @@
+body{
+    background-color:aliceblue
+}
+h1{
+    padding-bottom: 50px;
+    align-content: center;
+    padding-left: 300px;
+    text-align: left;
+}
+h2{
+    padding-bottom: 60px;
+    padding-left: 300px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.social-media{
+    display: flex;
+    align-content: left;
+    width: 1250px;
+}
+.search-bar {
+    margin: 300px;
+    display: flex;
+    align-items:normal;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 400px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+.search-input {
+    flex: 1;
+    border: none;
+    padding: 15px;
+}
+.hammersmith-one-regular {
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
