@@ -1,4 +1,8 @@
-body{
+* {
+    margin: 0px;
+    padding: 0px;
+}
+div{
     background-color: rgb(40, 140, 255);
 }
 h1{
